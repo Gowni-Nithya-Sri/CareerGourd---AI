@@ -1,0 +1,490 @@
+{
+    "HTML": {
+        "hours": 30,
+        "efficiency": 0.90
+    },
+    "CSS": {
+        "hours": 35,
+        "efficiency": 0.88
+    },
+    "JavaScript": {
+        "hours": 80,
+        "efficiency": 0.85
+    },
+    "React": {
+        "hours": 70,
+        "efficiency": 0.82
+    },
+    "Node.js": {
+        "hours": 60,
+        "efficiency": 0.82
+    },
+    "SQL": {
+        "hours": 60,
+        "efficiency": 0.85
+    },
+    "Git": {
+        "hours": 25,
+        "efficiency": 0.92
+    },
+    "REST API": {
+        "hours": 35,
+        "efficiency": 0.88
+    },
+    "MongoDB": {
+        "hours": 45,
+        "efficiency": 0.82
+    },
+    "Authentication": {
+        "hours": 30,
+        "efficiency": 0.82
+    },
+    "Docker": {
+        "hours": 50,
+        "efficiency": 0.78
+    },
+    "AWS": {
+        "hours": 80,
+        "efficiency": 0.72
+    },
+    "TypeScript": {
+        "hours": 55,
+        "efficiency": 0.82
+    },
+    "Responsive Design": {
+        "hours": 25,
+        "efficiency": 0.88
+    },
+    "Next.js": {
+        "hours": 50,
+        "efficiency": 0.80
+    },
+    "Testing": {
+        "hours": 40,
+        "efficiency": 0.85
+    },
+    "UI/UX": {
+        "hours": 60,
+        "efficiency": 0.80
+    },
+    "Python": {
+        "hours": 100,
+        "efficiency": 0.85
+    },
+    "Java": {
+        "hours": 100,
+        "efficiency": 0.82
+    },
+    "Data Structures": {
+        "hours": 100,
+        "efficiency": 0.80
+    },
+    "Algorithms": {
+        "hours": 100,
+        "efficiency": 0.78
+    },
+    "OOP": {
+        "hours": 50,
+        "efficiency": 0.88
+    },
+    "Software Engineering": {
+        "hours": 60,
+        "efficiency": 0.82
+    },
+    "Cloud": {
+        "hours": 70,
+        "efficiency": 0.75
+    },
+    "System Design": {
+        "hours": 80,
+        "efficiency": 0.72
+    },
+    "Kotlin": {
+        "hours": 80,
+        "efficiency": 0.82
+    },
+    "Android": {
+        "hours": 80,
+        "efficiency": 0.80
+    },
+    "UI Development": {
+        "hours": 60,
+        "efficiency": 0.82
+    },
+    "Firebase": {
+        "hours": 35,
+        "efficiency": 0.85
+    },
+    "Flutter": {
+        "hours": 70,
+        "efficiency": 0.80
+    },
+    "React Native": {
+        "hours": 65,
+        "efficiency": 0.80
+    },
+    "Machine Learning": {
+        "hours": 120,
+        "efficiency": 0.78
+    },
+    "Statistics": {
+        "hours": 90,
+        "efficiency": 0.80
+    },
+    "Deep Learning": {
+        "hours": 120,
+        "efficiency": 0.75
+    },
+    "FastAPI": {
+        "hours": 35,
+        "efficiency": 0.85
+    },
+    "Pandas": {
+        "hours": 45,
+        "efficiency": 0.88
+    },
+    "Data Visualization": {
+        "hours": 45,
+        "efficiency": 0.85
+    },
+    "Spark": {
+        "hours": 70,
+        "efficiency": 0.72
+    },
+    "Data Engineering": {
+        "hours": 100,
+        "efficiency": 0.75
+    },
+    "ETL": {
+        "hours": 60,
+        "efficiency": 0.80
+    },
+    "Databases": {
+        "hours": 70,
+        "efficiency": 0.82
+    },
+    "Airflow": {
+        "hours": 50,
+        "efficiency": 0.78
+    },
+    "NLP": {
+        "hours": 100,
+        "efficiency": 0.78
+    },
+    "Transformers": {
+        "hours": 80,
+        "efficiency": 0.72
+    },
+    "PyTorch": {
+        "hours": 80,
+        "efficiency": 0.75
+    },
+    "LLM": {
+        "hours": 100,
+        "efficiency": 0.72
+    },
+    "Hugging Face": {
+        "hours": 45,
+        "efficiency": 0.80
+    },
+    "Computer Vision": {
+        "hours": 100,
+        "efficiency": 0.75
+    },
+    "OpenCV": {
+        "hours": 60,
+        "efficiency": 0.82
+    },
+    "TensorFlow": {
+        "hours": 80,
+        "efficiency": 0.75
+    },
+    "CUDA": {
+        "hours": 60,
+        "efficiency": 0.70
+    },
+    "RAG": {
+        "hours": 60,
+        "efficiency": 0.75
+    },
+    "Prompt Engineering": {
+        "hours": 30,
+        "efficiency": 0.90
+    },
+    "APIs": {
+        "hours": 35,
+        "efficiency": 0.88
+    },
+    "Vector Databases": {
+        "hours": 50,
+        "efficiency": 0.75
+    },
+    "LangChain": {
+        "hours": 45,
+        "efficiency": 0.78
+    },
+    "Linux": {
+        "hours": 60,
+        "efficiency": 0.82
+    },
+    "CI/CD": {
+        "hours": 50,
+        "efficiency": 0.78
+    },
+    "Kubernetes": {
+        "hours": 90,
+        "efficiency": 0.70
+    },
+    "Networking": {
+        "hours": 80,
+        "efficiency": 0.78
+    },
+    "Terraform": {
+        "hours": 55,
+        "efficiency": 0.75
+    },
+    "Monitoring": {
+        "hours": 40,
+        "efficiency": 0.82
+    },
+    "Go": {
+        "hours": 80,
+        "efficiency": 0.78
+    },
+    "Cloud Computing": {
+        "hours": 80,
+        "efficiency": 0.75
+    },
+    "Security": {
+        "hours": 60,
+        "efficiency": 0.78
+    },
+    "Cybersecurity": {
+        "hours": 100,
+        "efficiency": 0.75
+    },
+    "SIEM": {
+        "hours": 60,
+        "efficiency": 0.75
+    },
+    "Threat Detection": {
+        "hours": 70,
+        "efficiency": 0.72
+    },
+    "Cloud Security": {
+        "hours": 70,
+        "efficiency": 0.72
+    },
+    "Penetration Testing": {
+        "hours": 100,
+        "efficiency": 0.70
+    },
+    "Cryptography": {
+        "hours": 80,
+        "efficiency": 0.72
+    },
+    "IAM": {
+        "hours": 50,
+        "efficiency": 0.80
+    },
+    "Web Security": {
+        "hours": 70,
+        "efficiency": 0.75
+    },
+    "Burp Suite": {
+        "hours": 40,
+        "efficiency": 0.78
+    },
+    "Metasploit": {
+        "hours": 40,
+        "efficiency": 0.75
+    },
+    "Excel": {
+        "hours": 40,
+        "efficiency": 0.90
+    },
+    "Power BI": {
+        "hours": 50,
+        "efficiency": 0.85
+    },
+    "Tableau": {
+        "hours": 50,
+        "efficiency": 0.82
+    },
+    "Power Query": {
+        "hours": 35,
+        "efficiency": 0.88
+    },
+    "Business Analysis": {
+        "hours": 70,
+        "efficiency": 0.82
+    },
+    "Product Management": {
+        "hours": 100,
+        "efficiency": 0.75
+    },
+    "Communication": {
+        "hours": 60,
+        "efficiency": 0.90
+    },
+    "Market Research": {
+        "hours": 50,
+        "efficiency": 0.85
+    },
+    "Data Analysis": {
+        "hours": 60,
+        "efficiency": 0.85
+    },
+    "Agile": {
+        "hours": 35,
+        "efficiency": 0.88
+    },
+    "Project Management": {
+        "hours": 80,
+        "efficiency": 0.80
+    },
+    "Leadership": {
+        "hours": 80,
+        "efficiency": 0.78
+    },
+    "Risk Management": {
+        "hours": 50,
+        "efficiency": 0.82
+    },
+    "Planning": {
+        "hours": 40,
+        "efficiency": 0.88
+    },
+    "Jira": {
+        "hours": 25,
+        "efficiency": 0.90
+    },
+    "UX Design": {
+        "hours": 80,
+        "efficiency": 0.80
+    },
+    "UI Design": {
+        "hours": 80,
+        "efficiency": 0.80
+    },
+    "Figma": {
+        "hours": 50,
+        "efficiency": 0.88
+    },
+    "Wireframing": {
+        "hours": 30,
+        "efficiency": 0.88
+    },
+    "Prototyping": {
+        "hours": 45,
+        "efficiency": 0.85
+    },
+    "User Research": {
+        "hours": 60,
+        "efficiency": 0.82
+    },
+    "Design Systems": {
+        "hours": 50,
+        "efficiency": 0.80
+    },
+    "MySQL": {
+        "hours": 50,
+        "efficiency": 0.85
+    },
+    "PostgreSQL": {
+        "hours": 50,
+        "efficiency": 0.85
+    },
+    "Backup & Recovery": {
+        "hours": 50,
+        "efficiency": 0.78
+    },
+    "Software Testing": {
+        "hours": 60,
+        "efficiency": 0.85
+    },
+    "Test Automation": {
+        "hours": 70,
+        "efficiency": 0.80
+    },
+    "Selenium": {
+        "hours": 50,
+        "efficiency": 0.82
+    },
+    "API Testing": {
+        "hours": 40,
+        "efficiency": 0.85
+    },
+    "Blockchain": {
+        "hours": 100,
+        "efficiency": 0.70
+    },
+    "Solidity": {
+        "hours": 100,
+        "efficiency": 0.68
+    },
+    "Smart Contracts": {
+        "hours": 80,
+        "efficiency": 0.70
+    },
+    "Web3": {
+        "hours": 60,
+        "efficiency": 0.72
+    },
+    "Ethereum": {
+        "hours": 50,
+        "efficiency": 0.75
+    },
+    "C#": {
+        "hours": 100,
+        "efficiency": 0.80
+    },
+    "Unity": {
+        "hours": 100,
+        "efficiency": 0.75
+    },
+    "Game Development": {
+        "hours": 120,
+        "efficiency": 0.72
+    },
+    "3D Mathematics": {
+        "hours": 70,
+        "efficiency": 0.75
+    },
+    "C++": {
+        "hours": 110,
+        "efficiency": 0.75
+    },
+    "Blender": {
+        "hours": 70,
+        "efficiency": 0.78
+    },
+    "Unreal Engine": {
+        "hours": 100,
+        "efficiency": 0.70
+    },
+    "AI": {
+        "hours": 80,
+        "efficiency": 0.78
+    },
+    "Robotics": {
+        "hours": 120,
+        "efficiency": 0.70
+    },
+    "Mathematics": {
+        "hours": 100,
+        "efficiency": 0.80
+    },
+    "ROS": {
+        "hours": 70,
+        "efficiency": 0.72
+    },
+    "Control Systems": {
+        "hours": 80,
+        "efficiency": 0.72
+    },
+    "Embedded Systems": {
+        "hours": 90,
+        "efficiency": 0.72
+    }
+}
